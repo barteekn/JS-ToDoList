@@ -1,3 +1,7 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
 body {
   height: 100vh;
   background: linear-gradient(to right, #485563, #29323c);
@@ -23,7 +27,7 @@ body {
 input[type="text"] {
   color: #fff;
   border: none;
-  background-color: #485563;
+  background-color: lightgray;
   max-width: 400px;
 }
 
